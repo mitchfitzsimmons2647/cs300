@@ -1,1 +1,1 @@
-# cs300
+# This program was to make a linked list with functions. This itself was not too hard with little to no road bloacks. These type of programing activities allowed me to start thinking of how to solve problems in alternative ways with different data structures.
